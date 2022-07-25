@@ -1,0 +1,17 @@
+//BRAINSTORM CAPSTONE//
+
+//IDEA ONE//
+
+PROJECT NAME : TETRIS Game Clone
+MVP : DataBase for HighScores
+
+//IDEA TWO//
+
+PROJECT NAME : PokeMon Stadium 
+MVP : Search Feature, AXIOS, PokeMon Battle 
+
+//IDEA THREE//
+
+PROJECT NAME : E-Commerce Boujee Boutique
+MVP : Shopping Cart, Filter By, Search, 
+
